@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bismillah/precache-manifest.d5702091dc4ca39f9e6d5847b5123b62.js"
+  "/bismillah/precache-manifest.55d86f3d821e95b60336ad0ca3a29e65.js"
 );
 
 workbox.clientsClaim();
